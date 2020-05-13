@@ -14,6 +14,7 @@ namespace Test1
 
             Console.WriteLine("xx ny test git");
             Console.WriteLine("push command line");
+            Console.WriteLine("merge test");
 
         }
     }
