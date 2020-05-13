@@ -12,7 +12,7 @@ namespace Test1
         {
 
 
-            Console.WriteLine("xx");
+            Console.WriteLine("xx ny test");
         }
     }
 }
