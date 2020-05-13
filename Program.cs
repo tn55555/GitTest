@@ -12,7 +12,11 @@ namespace Test1
         {
 
 
+<<<<<<< HEAD
             Console.WriteLine("xx ny test git gat");
+=======
+            Console.WriteLine("xx ny test git gat");
+>>>>>>> 0a43a1a64f7102884f24f09317349027e81da0bc
             Console.WriteLine("push command line");
             Console.WriteLine("merge test");
 
