@@ -13,6 +13,8 @@ namespace Test1
 
 
             Console.WriteLine("xx ny test");
+            Console.WriteLine("push command line");
+
         }
     }
 }
