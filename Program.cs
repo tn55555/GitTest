@@ -12,9 +12,9 @@ namespace Test1
         {
 
 
-            Console.WriteLine("xx ny test git gat");
+            Console.WriteLine("xx ny test git gat a");
             Console.WriteLine("push command line");
-            Console.WriteLine("merge test   dfksdf'kllæ'");
+            Console.WriteLine("merge test  aaaaaaa");
 
         }
     }
