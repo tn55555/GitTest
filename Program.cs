@@ -20,6 +20,8 @@ namespace Test1
 
             Console.WriteLine("branch 2");
 
+            Console.WriteLine("branch 3");
+
         }
     }
 }
