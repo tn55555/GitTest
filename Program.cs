@@ -16,6 +16,8 @@ namespace Test1
             Console.WriteLine("push command line");
             Console.WriteLine("merge test  aaaaaaa");
 
+            Console.WriteLine("branch 1");
+
         }
     }
 }
