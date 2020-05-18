@@ -1,0 +1,1 @@
+call wm program.cs d:\GitTest\Test2\Test1\program.cs
