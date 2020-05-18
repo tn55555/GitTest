@@ -41,6 +41,8 @@ namespace Test1
 
 
             Console.WriteLine("zzzzzzzzzzzzzzzzzz");
+            
+            Console.WriteLine("b3 from remote");
 
 
 
