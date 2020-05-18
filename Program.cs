@@ -13,30 +13,6 @@ namespace Test1
 
 
             Console.WriteLine("xx ny test git gat a");
-            Console.WriteLine("push command line");
-            Console.WriteLine("merge test  aaaaaaa");
-
-            
-
-            
-
-
-
-            Console.WriteLine("xxxxxxxxxxxxxxxx");
-            Console.WriteLine("xxxxxxxxxxxxxxxx");
-
-            Console.WriteLine("this is test2 xxxxxxxxx");
-
-
-
-            Console.WriteLine("zzzzzzzzzzzzzzzzzz");
-            
-            Console.WriteLine("b3 fram remote");
-
-
-            Console.WriteLine("tn special");
-
-
         }
     }
 }
