@@ -42,7 +42,7 @@ namespace Test1
 
             Console.WriteLine("zzzzzzzzzzzzzzzzzz");
             
-            Console.WriteLine("b3 from remote");
+            Console.WriteLine("b3 fram remote");
 
 
 
