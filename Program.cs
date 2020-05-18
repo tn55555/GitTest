@@ -34,6 +34,7 @@ namespace Test1
             Console.WriteLine("b3 fram remote");
 
 
+            Console.WriteLine("tn special");
 
 
         }
