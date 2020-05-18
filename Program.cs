@@ -16,9 +16,9 @@ namespace Test1
             Console.WriteLine("push command line");
             Console.WriteLine("merge test  aaaaaaa");
 
-            Console.WriteLine("branch 1");
+            
 
-            Console.WriteLine("branch 2");  
+            
 
             Console.WriteLine("branch 3");
 
@@ -41,6 +41,8 @@ namespace Test1
 
 
             Console.WriteLine("zzzzzzzzzzzzzzzzzz");
+            
+            Console.WriteLine("b3 fram remote");
 
 
 
