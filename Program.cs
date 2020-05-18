@@ -13,6 +13,9 @@ namespace Test1
 
 
             Console.WriteLine("xx ny test git gat a");
+            Console.WriteLine("ssssss");
+            Console.WriteLine("ssssss");
+
         }
     }
 }
