@@ -36,6 +36,8 @@ namespace Test1
             Console.WriteLine("xxxxxxxxxxxxxxxx");
             Console.WriteLine("xxxxxxxxxxxxxxxx");
 
+            Console.WriteLine("this is test2");
+
 
 
             Console.WriteLine("zzzzzzzzzzzzzzzzzz");
