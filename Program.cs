@@ -10,9 +10,11 @@ namespace Test1
     {
         static void Main(string[] args)
         {
-    
             Console.WriteLine("ssssss");
 
+
+            Console.WriteLine("ssssss");
+            Console.WriteLine("ssssss");
 
             Console.WriteLine("ssssss");
 
