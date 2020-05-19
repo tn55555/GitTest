@@ -10,38 +10,14 @@ namespace Test1
     {
         static void Main(string[] args)
         {
-
+    
+            Console.WriteLine("ssssss");
 
             Console.WriteLine("xx ny test git gat a"); 
             Console.WriteLine("push command line");
             Console.WriteLine("merge test  aaaaaaa");
 
-            Console.WriteLine("branch 1");
-
-            Console.WriteLine("branch 2");  
-
-            Console.WriteLine("branch 3");
-
-            Console.WriteLine("branch 4");
-
-            Console.WriteLine("branch 5 in cloud xxxxxx");
-
-
-            Console.WriteLine("branch 5 in cloud xxxxxx");
-            Console.WriteLine("branch 5 in cloud 222");
-
-            Console.WriteLine("branch 5 in cloud xxxxxx");
-
-
-            Console.WriteLine("xxxxxxxxxxxxxxxx");
-            Console.WriteLine("xxxxxxxxxxxxxxxx");
-
-
-
-            Console.WriteLine("zzzzzzzzzzzzzzzzzz");
-
-
-
+            Console.WriteLine("ssssss");
 
         }
     }
